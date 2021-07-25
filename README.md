@@ -1,1 +1,0 @@
-# JobPlnAtsumu.pwn
